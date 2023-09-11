@@ -1,0 +1,5 @@
+// alert("Hello World") 
+// confirm("Hello World") 
+console.log("Hello World") 
+// document.write("Hello World") 
+// prompt("Remember the like!")
